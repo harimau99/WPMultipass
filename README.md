@@ -6,6 +6,6 @@ WPMultipass is a repository list of application to install to run WordPress in a
 
 | Requirement | Specification | Version Compatible | Condition | Virtualbox Version |
 | ----------- | ------------- | ------------------ | --------- | ------------------ |
-| at least 3core | 8GB ram | Multipass version 1.7 above | Cannot any other except <br> virtualbox, 2 tab of browser choice | virtual box ver 6.x|
+| at least 3core cpu| 8GB ram | Multipass ver. 1.7+ | Avoiding other simulator except <br> virtualbox (lower consumption), 2 tab <br>of browser choice preferably firefox | virtual box ver. 6.x|
 
 
